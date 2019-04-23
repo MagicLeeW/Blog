@@ -7,6 +7,7 @@ js部分的内容主要来自于[冴羽的博客](https://github.com/mqyqingfeng
 ```
 >[js知识进阶](https://github.com/MagicLeeW/Blog/issues/1)
 >>[原型及原型链](https://github.com/MagicLeeW/Blog/issues/3)
+
 >>[词法作用域和动态作用域](https://github.com/MagicLeeW/Blog/issues/4)
 
 >[js奇技淫巧](https://github.com/MagicLeeW/Blog/issues/2)
