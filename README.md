@@ -6,9 +6,6 @@ js部分的内容主要来自于[冴羽的博客](https://github.com/mqyqingfeng
 可以理解为是其博客的简化及个性化总结。分为js进阶和js奇技淫巧。
 ```
 >[js知识进阶](https://github.com/MagicLeeW/Blog/issues/1)
->>[原型及原型链](https://github.com/MagicLeeW/Blog/issues/3)
-
->>[词法作用域和动态作用域](https://github.com/MagicLeeW/Blog/issues/4)
 
 >[js奇技淫巧](https://github.com/MagicLeeW/Blog/issues/2)
 
